@@ -47,10 +47,10 @@ int main(int argc, char *argv[]) {
 
 	subset(0);
 	
-	printf("1q2w3e4r!@#1q2w3e4r!@#1");
-	printf("Seong Hyun");
-	printf("Student ID : 20154120");
-	printf("q2w3e4r!@#1q2w3e4r!@#1q");
+	printf("1q2w3e4r!@#1q2w3e4r!@#1\n");
+	printf("Seong Hyun\n");
+	printf("Student ID : 20154120\n");
+	printf("q2w3e4r!@#1q2w3e4r!@#1q\n");
 
 	return 0;
 }
