@@ -87,9 +87,13 @@ int main(int argc, char *argv[]) {
 	subset(0);
 
 	printf("1q2w3e4r!@#1q2w3e4r!@#1\n");
+	fputs("1q2w3e4r!@#1q2w3e4r!@#1\n", fp);
 	printf("Seong Hyun\n");
+	fputs("Seong Hyun\n", fp);
 	printf("Student ID : 20154120\n");
+	fputs("Student ID : 20154120\n", fp);
 	printf("q2w3e4r!@#1q2w3e4r!@#1q\n");
+	fputs("q2w3e4r!@#1q2w3e4r!@#1q\n", fp);
 
 	fclose(fp);
 
