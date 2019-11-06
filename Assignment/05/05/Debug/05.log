@@ -1,0 +1,4 @@
+﻿  20154120_05.c
+C:\dev\discrete_mathematics\Assignment\05\05\20154120_05.c(18,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\dev\discrete_mathematics\Assignment\05\05\20154120_05.c(19,9): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  05.vcxproj -> C:\dev\discrete_mathematics\Assignment\05\Debug\05.exe
