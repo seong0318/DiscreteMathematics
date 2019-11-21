@@ -1,0 +1,11 @@
+﻿  20154120_06.c
+c:\dev\discretemathematics\assignment\06\06\20154120_06.c(21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\dev\discretemathematics\assignment\06\06\20154120_06.c(22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\dev\discretemathematics\assignment\06\06\20154120_06.c(77): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char *[5]'과(와) 다릅니다.
+c:\dev\discretemathematics\assignment\06\06\20154120_06.c(77): warning C4024: 'fgets': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\dev\discretemathematics\assignment\06\06\20154120_06.c(78): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char *[5]'과(와) 다릅니다.
+c:\dev\discretemathematics\assignment\06\06\20154120_06.c(78): warning C4024: 'atoi': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\dev\discretemathematics\assignment\06\06\20154120_06.c(82): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char *[5]'과(와) 다릅니다.
+c:\dev\discretemathematics\assignment\06\06\20154120_06.c(82): warning C4024: 'fgets': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\dev\discretemathematics\assignment\06\06\20154120_06.c(83): warning C4047: '=': 'char'의 간접 참조 수준이 'char *'과(와) 다릅니다.
+  06.vcxproj -> C:\dev\DiscreteMathematics\Assignment\06\Debug\06.exe
